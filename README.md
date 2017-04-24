@@ -13,5 +13,14 @@ files with the extension `*.md`.
 Unless indicated otherwise, the older articles on this blog are copyrighted
 by their authors, and you'll have to ask rdearman about the licenses.
 
+## Dev notes: Accessing the old site
+
+See [the Wayback Machine][old] if you want to know what the WordPress site
+looked like.  This shows the links, etc., to other sites, and the actual
+posts available.
+
+The RSS should be placed at `/feed/`.
+
 [Jekyll]: https://jekyllrb.com/
 [Markdown]: https://daringfireball.net/projects/markdown/syntax
+[old]: https://web.archive.org/web/20161005210441/www.language-learners.org
