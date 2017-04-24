@@ -15,12 +15,15 @@ by their authors, and you'll have to ask rdearman about the licenses.
 
 The files:
 
+- `_includes/head.html`
 - `_includes/header.html`
 - `_includes/footer.html`
+- `assets/main.scss`
 
 ...were copied from [the minima theme](https://github.com/jekyll/minima),
 and are copyright ????-2017 by the minima contributors.  They are
-distributed under the MIT license, included as `MIT-LICENSE.txt`.
+distributed under the MIT license, included as `MIT-LICENSE.txt`.  We use
+these to override certain parts of the minima style.
 
 ## Dev notes: Accessing the old site
 
