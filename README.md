@@ -13,6 +13,15 @@ files with the extension `*.md`.
 Unless indicated otherwise, the older articles on this blog are copyrighted
 by their authors, and you'll have to ask rdearman about the licenses.
 
+The files:
+
+- `_includes/header.html`
+- `_includes/footer.html`
+
+...were copied from [the minima theme](https://github.com/jekyll/minima),
+and are copyright ????-2017 by the minima contributors.  They are
+distributed under the MIT license, included as `MIT-LICENSE.txt`.
+
 ## Dev notes: Accessing the old site
 
 See [the Wayback Machine][old] if you want to know what the WordPress site

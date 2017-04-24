@@ -40,3 +40,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - MIT-LICENSE.txt
