@@ -16,7 +16,7 @@ categories: []
 tags: []
 comments: []
 ---
-**General information**
+## General information
 
 Hungarian (Magyar) is the official language of Hungary and is also the mother tongue of people of Hungarian ancestry living in neighbouring countries (e.g. Slovakia, Romania, Serbia, etc.). Because of immigration during the late 19th century and throughout the 20th century, native Hungarian speakers also live in North America, Western Europe, Australia and Israel. All told, the number of Hungarian native speakers exceeds 14 million.
 
@@ -28,11 +28,11 @@ Competency in Hungarian is useful in Hungary and areas where Hungarian is used b
 
 Knowledge of Hungarian would acquaint the learner with features that are characteristic of Uralic (e.g. Finnish, Komi) and Altaic languages (e.g. Turkish, Mongolian). However, a prospective learner of Hungarian should realize that learning Finnish with a Hungarian base (i.e. both Uralic languages) is about as easy as learning Polish with an English base (i.e. both Indo-European languages) for example.
 
-**Varieties / dialects**
+## Varieties / dialects
 
 The modern standard language is based on efforts started during the 18th century of incorporating eastern and western dialects. Dialectologists recognize 10 groups with the Csángó dialect in eastern Romania diverging noticeably from the other groups. Today, standard Hungarian is taught in all schools and colleges and this has limited the problem of mutual unintelligibility among Hungarians regardless of their native dialects.
 
-**Learning with a background in other languages**
+## Learning with a background in other languages
 
 According to FSI, it takes approximately 1100 class hours to achieve professional speaking and reading proficiency in Hungarian. It follows that it has a comparable level of difficulty to doing the same in Estonian, Finnish, Georgian or Vietnamese.
 
@@ -43,7 +43,7 @@ For native speakers of an Indo-European language such as I, these are features t
 1) Conjugation that depends on the definiteness of the direct object, when applicable.2) Unfamiliar vocabulary  
 3) Word order  
 
-**Grammatical overview**
+## Grammatical overview
 
 Stress is fixed on the first syllable while intonation is used in distinguishing between interrogative and non-interrogative sentences. There is also a distinction between voicing and devoicing that is not shown in spelling.
 
@@ -137,7 +137,7 @@ Hogy (maguk/önök) vannak? "How are you?" (formal plural - 3rd person plural)
 
 Hogy tetszik lenni? "How are you?" (literally: "How (to you) does it please to be?" - formal but somewhat affectionate singular/plural). One would usually see this structure of a conjugated form of tetszeni followed by the infinitive when addressing the elderly including instances of children greeting grandparents or great-grandparents or a middle-aged person addressing an elderly stranger.
 
-**Mutual intelligibility with other languages**
+## Mutual intelligibility with other languages
 
 Hungarian shows the most similarity to the endangered language of Mansi spoken in western Siberia but mutual intelligibility is low. Certainly speakers of better-known Altaic (e.g. Mongolian, Turkish) or other Uralic languages (e.g. Estonian, Finnish) would find certain aspects of Hungarian to be easier to grasp than would speakers of languages from other families yet Hungarian will be practically unintelligible all the same.
 
@@ -228,7 +228,8 @@ There are a few hints that learners can use to understand or at minimum partiall
  - Ülhetek melléd? (Hungarian - literally: Sit-[ability suffix]-I beside-to-[2nd person singular possessive suffix])  
 
  - Saanko istua (sinun) viereesi? (Finnish - literally: Can-I to sit (yours) beside-to-[2nd person singular possessive suffix])  
-**Literature / Media / Film / Music**
+
+## Literature / Media / Film / Music
 
 Hungarian literature has its 'stars' such as Sándor Petőfi (poet), Géza Gárdonyi (author), Endre Ady (poet), Zsigmond Móricz (author), Attila József (poet), Gyula Krudy (author). While some of their works have been translated into several languages, a knowledge of Hungarian will give you access to the originals.
 
@@ -238,9 +239,7 @@ In music, a learner could take advantage of the stock of Hungarian vocal music s
 
 More modern bands include Syrius (fusion jazz), Metró (rock), Omega (rock) Moby Dick (thrash metal), Locomotiv GT (rock), Illés (rock/beat). Groups such as Muzsikás and Csík zenekar cater to those into a sometimes modernized take on folk music, and can be entertaining opportunity for learners to hear Hungarian folk songs.
 
-**Learning material**
-
-i) Books
+## Learning material: Books
 
 1) Teach Yourself Get Started in Hungarian (Zsuzsa Pontifex)  
 
@@ -383,217 +382,95 @@ i) Books
  - This is a handy and concise reference guide to Hungarian grammar and costs approximately $10 US on Amazon.  
 
  - Despite Rounds' book having greater coverage and providing more example sentences, Törkenczy's is a suitable choice for beginners.  
-ii) Online material and links to information of interestDiscussions, posts or longs on how-to-learn-any-language.com involving Hungarian:  
 
- -  
-
-[0 to conversational Hungarian in 3 months](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21882&PN=1)-  
-
-[B2-C1/C2 - what did you do?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19542&PN=1)-  
-
-[Estonian/Finnish/Hungarian "cheat sheet"](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19916&PN=1)-  
-
-[Finno-Ugric languages](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=23335&PN=1)-  
-
-[Hříbeček’s TAC 2011 - Team Ő](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24465&PN=1)-  
-
-[Hungarian Online Dictionary](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=17081&PN=1)-  
-
-[Hungarian and Rumantsch diary - Kisfröccs](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=20033&PN=1)-  
-
-[Hungarian OR Finnish - please help!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=8454)-  
-
-[January Hungarian Challenge (Everyone)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24047&PN=3)-  
-
-[Mostly Magyar - A Hungarian Journey](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22257&PN=1)-  
-
-[Review with FSI Basic Hungarian Course](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=3356&PN=1)-  
-
-[TAC09 Russian & Hungarian (#lal) (+Nor.)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=12914&PN=1)-  
-
-[TAC 2009 - DaraghM](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=13257&PN=1)-  
-
-[TAC 2010 Katie's Hungarian](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=18578&PN=1)-  
-
-[TAC 2011 team Ő, to the South East...](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22597)Other forums  
-
- - Unilang's  
-
-[discussion forum](http://www.unilang.org/viewforum.php?f=63)for Hungarian  
-
- - WordReference's  
-
-[discussion forum](http://forum.wordreference.com/forumdisplay.php?f=87)for Hungarian  
-
- General collections of links  
-
- - A wide-ranging  
-
-[site](http://seelrc.org/webliography/hungarian.ptml)on many aspects of the language (e.g. grammar, education, professional organizations)  
-
- General treatment and descriptions of Hungarian's learning difficulty  
-
- - Wikipedia's  
-
-[article](http://en.wikipedia.org/wiki/Hungarian_language)on Hungarian  
-
- - A  
-
-[website](http://www.nvtc.gov/lotw/months/november/learningExpectations.html)on language difficulty for native speakers of English  
-
- -  
-
-[Script, Grammar, and the Hungarian Writing System.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED072689)from ERIC (compares the Hungarian script, grammar and writing system with those of English to show potential effects on foreign language learning)  
-
- -  
-
-[A Contrastive Analysis of English and Hungarian Sentence Prosody. The Hungarian-English Contrastive Linguistics Project, Working Papers No. 6.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED121073)from ERIC (comparison of prosody in English and Hungarian)  
-
- -  
-
-[A Contrastive Analysis of English and Hungarian Grammatical Structure. Final Report.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED061859)from ERIC (compares grammatical structures of each of English and Hungarian with special attention to features that would hinder most the efforts of an English-speaking learner of Hungarian)  
-
- - Essay  
-
-[“Grammatical Difficulties of Hungarian Students in Learning English”](http://eltj.oxfordjournals.org/content/XIV/2/70.full.pdf)which may be useful in an indirect way by showing what English-speakers may need to be aware of when learning Hungarian based on analyzing the aspects of English that are difficult for Hungarians.  
-
- Dictionaries and other databases  
-
- - A  
-
-[database](http://starling.rinet.ru/cgi-bin/main.cgi)on various language families including Uralic (source of some of the etymologies)  
-
- -  
-
-[Online](http://szotar.sztaki.hu/english-hungarian)English-Hungarian/Hungarian-English dictionary  
-
- -  
-
-[Online](http://szotar.lingea.hu/)dictionaries between Hungarian and several languages  
-
- -  
-
-[Online](http://osnyelv.hu/czuczor/)version of the Hungarian explanatory dictionary by Gergely Czuczor and János Fogarasi from 1862 (despite being only in Hungarian and its age, it's still full of useful information and most head-words or roots are listed with some hints about inflection (i.e. grammatical endings))  
-
- - Hungarian dictionary of slang,  
-
-[Hogymondom](http://hogymondom.hu/)(in Hungarian only)  
-
- Online courses or downloadable audio/textbooks/instructional videos  
-
- -  
-
-[Basic Hungarian Course](http://www.personal.psu.edu/adr10/hungarian.html)by Aaron Rubin  
-
- -  
-
-[AFS Hungarian Course](http://hungary.afs.hu/hungary/study.html)-  
-
-[eMagyarul 1](https://emagyariskola.hu/tudasbazis/e-magyarul-1-bovitett)and  
-
-[eMagyarul 2](https://emagyariskola.hu/tudasbazis/e-magyarul-2)(interactive courses that are in Hungarian only and may be better for brushing-up than learning from scratch)  
-
- -  
-
-[Hungarian in Hungary](http://langmedia.fivecolleges.edu/collection/lm_hungary/huIndex.html)from Langmedia at Five Colleges Center for the Study of World Languages  
-
- -  
-
-[Hungarotips](http://www.hungarotips.com/hungarian/)-  
-
-[Le hongrois avec András](http://hongroisavecandras.blog4ever.com/blog/index-444844.html)(course for French-speakers)  
-
- -  
-
-[Let's Learn Hungarian!](http://www.letslearnhungarian.net/)-  
-
-[Magyaróra](http://www.magyarora.com/)-  
-
-[Curs online de limba maghiară](http://www.nebulo.ro/lectii.html)(basic online course for Romanian-speakers)  
-
- -  
-
-[Tanulj magyarul! (Lerne Ungarisch!)](http://sites.google.com/site/tanuljmagyarul20090909/home/sekvopagxo)(notes on Hungarian grammar for German-speakers)  
-
- -  
-
-["Spoken Hungarian"](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED113924)from ERIC (textbook only)  
-
- -  
-
-[English-Hungarian phrasebook](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED283384)from ERIC  
-
- -  
-
-[FSI Hungarian Graded Reader](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED024028)from ERIC  
-
- -  
-
-[FSI Hungarian Basic Course Vol. 1](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED010450)from ERIC (textbook only)  
-
- -  
-
-[FSI Hungarian Basic Course Vol. 2](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED010451)from ERIC (textbook only)  
-
- -  
-
-[“A complete practical grammar of the Hungarian language; with exercises, selections from the best authors, and vocabularies, to which is added a Historical sketch of Hungarian literature”](http://www.archive.org/download/completepractica00csinuoft/completepractica00csinuoft.pdf)from 1853 and hosted on archive.org (likely on account of it being in the public domain).  
-
- -  
-
-[Magyar nyelvi gyakorlatok kezdőknek és haladóknak](http://ungarischalsfremdsprache.blogspot.ca/p/tartalomjegyzek.html)(sets of exercises in grammar for beginning and intermediate students - in Hungarian only)  
-
- -  
-
-[Audio](http://www.routledgetextbooks.com/textbooks/colloquial/hungarian.php)for "Colloquial Hungarian" courtesy Routledge.  
-
- -  
-
-[Audio archive of Indiana University](http://www.iu.edu/%7Eceltie/hungarian_archive.html)holding audio in .mp3 format for "Learn Hungarian!" and "Hungarian in Words and Pictures".  
-
- -  
-
-[Website](http://magyar-ok.hu/en/home.html)for the "MagyarOK" series (contains ordering information and downloadable supplements such as audio, answer keys, and notes on grammar).  
-
- Literature and authentic texts  
-
- -  
-
-[Hungarian electronic library](http://www.mek.oszk.hu)which has online texts from Hungarian literature and should be suitable for learners wanting to tackle authentic literary material.  
-
- - Collection of texts sorted by author at  
-
-[Digital Literary Academy](http://www.pim.hu/dia/)from the Petőfi Museum of Literature  
-
- - Online collection of  
-
-[Children's literature](http://www.childrenslibrary.org)from the International Children's Digital Library - includes texts in Hungarian  
-
- Bookstores in Hungary  
-
- -  
-
-[List](http://konyvesbolt.lap.hu/)of bookstores in Hungary  
-
- Stores outside Hungary that deal in Hungarian books or have material of interest to learners of Hungarian  
-
- -  
-
-[Bay Foreign Language Books Ltd.](http://www.baylanguagebooks.co.uk)-  
-
-[The European Bookshop](http://www.europeanbookshop.com/index.php)-  
-
-[Otto's Import Store & Deli](http://www.hungariandeli.com/Ottos.htm)-  
-
-[Pannonia Books](http://www.pannonia.ca)-  
-
-[Schoenhof's](http://www.schoenhofs.com)Downloadable/streamed media  
-
- - Lists of  
-
-[radio stations](http://www.multilingualbooks.com/online-radio-hungarian.html)and  
-
-[television stations](http://en.wikipedia.org/wiki/Television_in_Hungary#Free-to-air_TV_Channels_broadcasting_in_Hungary)in Hungary (stations' websites have content that is playable as a stream).  
+## Online material and links to information of interest
+
+Discussions, posts or longs on how-to-learn-any-language.com involving Hungarian:  
+
+- [0 to conversational Hungarian in 3 months](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21882&PN=1)
+- [B2-C1/C2 - what did you do?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19542&PN=1)
+- [Estonian/Finnish/Hungarian "cheat sheet"](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19916&PN=1)
+- [Finno-Ugric languages](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=23335&PN=1) 
+- [Hříbeček’s TAC 2011 - Team Ő](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24465&PN=1)
+- [Hungarian Online Dictionary](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=17081&PN=1)
+- [Hungarian and Rumantsch diary - Kisfröccs](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=20033&PN=1) 
+- [Hungarian OR Finnish - please help!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=8454)
+- [January Hungarian Challenge (Everyone)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24047&PN=3)
+- [Mostly Magyar - A Hungarian Journey](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22257&PN=1)
+- [Review with FSI Basic Hungarian Course](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=3356&PN=1)
+- [TAC09 Russian & Hungarian (#lal) (+Nor.)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=12914&PN=1)
+- [TAC 2009 - DaraghM](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=13257&PN=1)
+- [TAC 2010 Katie's Hungarian](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=18578&PN=1) 
+- [TAC 2011 team Ő, to the South East...](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22597)
+
+Other forums
+
+- Unilang's [discussion forum](http://www.unilang.org/viewforum.php?f=63) for Hungarian
+- WordReference's [discussion forum](http://forum.wordreference.com/forumdisplay.php?f=87) for Hungarian
+
+General collections of links
+
+- A wide-ranging [site](http://seelrc.org/webliography/hungarian.ptml) on many aspects of the language (e.g. grammar, education, professional organizations)
+- General treatment and descriptions of Hungarian's learning difficulty
+- Wikipedia's [article](http://en.wikipedia.org/wiki/Hungarian_language) on Hungarian
+- A [website](http://www.nvtc.gov/lotw/months/november/learningExpectations.html) on language difficulty for native speakers of English
+- [Script, Grammar, and the Hungarian Writing System.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED072689) from ERIC (compares the Hungarian script, grammar and writing system with those of English to show potential effects on foreign language learning)
+- [A Contrastive Analysis of English and Hungarian Sentence Prosody. The Hungarian-English Contrastive Linguistics Project, Working Papers No. 6.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED121073) from ERIC (comparison of prosody in English and Hungarian)
+- [A Contrastive Analysis of English and Hungarian Grammatical Structure. Final Report.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED061859) from ERIC (compares grammatical structures of each of English and Hungarian with special attention to features that would hinder most the efforts of an English-speaking learner of Hungarian)
+- Essay [“Grammatical Difficulties of Hungarian Students in Learning English”](http://eltj.oxfordjournals.org/content/XIV/2/70.full.pdf) which may be useful in an indirect way by showing what English-speakers may need to be aware of when learning Hungarian based on analyzing the aspects of English that are difficult for Hungarians.
+
+Dictionaries and other databases  
+
+- A [database](http://starling.rinet.ru/cgi-bin/main.cgi) on various language families including Uralic (source of some of the etymologies)
+- [Online](http://szotar.sztaki.hu/english-hungarian) English-Hungarian/Hungarian-English dictionary
+- [Online](http://szotar.lingea.hu/) dictionaries between Hungarian and several languages
+- [Online](http://osnyelv.hu/czuczor/) version of the Hungarian explanatory dictionary by Gergely Czuczor and János Fogarasi from 1862 (despite being only in Hungarian and its age, it's still full of useful information and most head-words or roots are listed with some hints about inflection (i.e. grammatical endings))
+- Hungarian dictionary of slang, [Hogymondom](http://hogymondom.hu/) (in Hungarian only)
+
+Online courses or downloadable audio/textbooks/instructional videos
+
+- [Basic Hungarian Course](http://www.personal.psu.edu/adr10/hungarian.html) by Aaron Rubin
+- [AFS Hungarian Course](http://hungary.afs.hu/hungary/study.html)
+- [eMagyarul 1](https://emagyariskola.hu/tudasbazis/e-magyarul-1-bovitett) and [eMagyarul 2](https://emagyariskola.hu/tudasbazis/e-magyarul-2) (interactive courses that are in Hungarian only and may be better for brushing-up than learning from scratch)
+- [Hungarian in Hungary](http://langmedia.fivecolleges.edu/collection/lm_hungary/huIndex.html) from Langmedia at Five Colleges Center for the Study of World Languages
+- [Hungarotips](http://www.hungarotips.com/hungarian/)
+- [Le hongrois avec András](http://hongroisavecandras.blog4ever.com/blog/index-444844.html) (course for French-speakers)
+- [Let's Learn Hungarian!](http://www.letslearnhungarian.net/)
+- [Magyaróra](http://www.magyarora.com/)
+- [Curs online de limba maghiară](http://www.nebulo.ro/lectii.html) (basic online course for Romanian-speakers)
+- [Tanulj magyarul! (Lerne Ungarisch!)](http://sites.google.com/site/tanuljmagyarul20090909/home/sekvopagxo) (notes on Hungarian grammar for German-speakers)
+- ["Spoken Hungarian"](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED113924) from ERIC (textbook only)
+- [English-Hungarian phrasebook](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED283384) from ERIC
+- [FSI Hungarian Graded Reader](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED024028) from ERIC
+- [FSI Hungarian Basic Course Vol. 1](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED010450) from ERIC (textbook only)
+- [FSI Hungarian Basic Course Vol. 2](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED010451) from ERIC (textbook only)
+- [“A complete practical grammar of the Hungarian language; with exercises, selections from the best authors, and vocabularies, to which is added a Historical sketch of Hungarian literature”](http://www.archive.org/download/completepractica00csinuoft/completepractica00csinuoft.pdf) from 1853 and hosted on archive.org (likely on account of it being in the public domain).
+- [Magyar nyelvi gyakorlatok kezdőknek és haladóknak](http://ungarischalsfremdsprache.blogspot.ca/p/tartalomjegyzek.html) (sets of exercises in grammar for beginning and intermediate students - in Hungarian only)
+- [Audio](http://www.routledgetextbooks.com/textbooks/colloquial/hungarian.php) for "Colloquial Hungarian" courtesy Routledge.
+- [Audio archive of Indiana University](http://www.iu.edu/%7Eceltie/hungarian_archive.html) holding audio in .mp3 format for "Learn Hungarian!" and "Hungarian in Words and Pictures".
+- [Website](http://magyar-ok.hu/en/home.html) for the "MagyarOK" series (contains ordering information and downloadable supplements such as audio, answer keys, and notes on grammar).
+
+Literature and authentic 
+
+- [Hungarian electronic library](http://www.mek.oszk.hu) which has online texts from Hungarian literature and should be suitable for learners wanting to tackle authentic literary material.
+- Collection of texts sorted by author at [Digital Literary Academy](http://www.pim.hu/dia/) from the Petőfi Museum of Literature
+- Online collection of [Children's literature](http://www.childrenslibrary.org) from the International Children's Digital Library - includes texts in Hungarian
+
+Bookstores in Hungary
+
+- [List](http://konyvesbolt.lap.hu/) of bookstores in Hungary
+
+Stores outside Hungary that deal in Hungarian books or have material of interest to learners of Hungarian  
+
+- [Bay Foreign Language Books Ltd.](http://www.baylanguagebooks.co.uk)
+- [The European Bookshop](http://www.europeanbookshop.com/index.php)
+- [Otto's Import Store & Deli](http://www.hungariandeli.com/Ottos.htm)
+- [Pannonia Books](http://www.pannonia.ca)
+- [Schoenhof's](http://www.schoenhofs.com)
+
+Downloadable/streamed media  
+
+- Lists of [radio stations](http://www.multilingualbooks.com/online-radio-hungarian.html) and [television stations](http://en.wikipedia.org/wiki/Television_in_Hungary#Free-to-air_TV_Channels_broadcasting_in_Hungary) in Hungary (stations' websites have content that is playable as a stream).
 
 > Credits: Edited by Senior Forum Member [Chung](http://forum.language-learners.org/memberlist.php?mode=viewprofile&u=62).
 > 

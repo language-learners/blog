@@ -39,10 +39,11 @@ Your mileage may vary.
 _However_:  
 If you feel that something is missing from your routine, if you feel that you are not being challenged sufficiently by your course, if you are dissatisfied at the pace of your course and the choice of topics covered, if you want to, perhaps, shorten the time it takes you to reach the intermediate stage, and make the intermediate stage less of a shock to your system, if you want to make your routine more fun, interesting and turbocharge your learning, if you want to learn the language in, perhaps, a deeper way... then read on.
 
-**What is the multi-track approach?**  
+## What is the multi-track approach?
+
 In a nutshell, the multi-track approach isn't about perfection and overwhelming yourself, it's about making your own connections and seeing vocabulary, grammar and constructions in different contexts. It's about synergy in learning- where one track informs and reinforces the other.
 
-WARNING- LONG POST FOLLOWS!!!  
+WARNING- LONG POST FOLLOWS!!!
 For a more practical demonstration, look at how I applied my approach when I started with Haitian Creole in my log- [M ta renmen pale kreyòl ayisyen](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=34741). Followed by my log here- [The iguana's tale](http://forum.language-learners.org/viewtopic.php?t=797). My approach is holistic.
 
 I believe courses, in the beginning are highly useful. Courses give a good grounding in the fundamentals, and... well, you've got to start somewhere\*. For most people, myself included, a pre-packaged course is significantly easier than coming up with something from scratch. Where I differ from common wisdom in language-learning is by recommending a couple of complimentary, simultaneous, course(s) along with some type of (very limited to start) native material from near the beginning- even when you won't understand very much at all. Just listening to the language as it is spoken natively, outside the course, can help the learner to become accustomed to the rythyms of the language. (\*emk and sprachprofi have shown that you may not even need a course by using their subs2srs method and in emk's case, a basic grammar, however; emk and sprachprofi are experienced learners. In emk's case, he has successfully taught himself French, a related language. He knows how to learn a language and what works for him.)
@@ -53,7 +54,8 @@ The beginner course audio can be painfully slow and unnatural. I understand the 
 
 Many of these learners, who have primarily focused on just their courses, then try native material and are often shocked to find that they understand a lot less than they expected, both in writing and in the spoken language. Sometimes they give up, or worse, they repeat the same course thinking that that's where they went wrong. Or, they may end up doing a succession of other courses. If you are engaging the language from the start, at the same time as you are doing a course, you are much better prepared for the language as it is actually spoken and written outside of “course-world”.
 
-**What to do in the beginning:**  
+## What to do in the beginning
+
 My advice would be to pick one or two courses and do them at the same time period, alternating days or doing one in the morning and the other in the evening, or one after the other in the same time period. My favorite method is one in the morning and the audio course throughout the day in “hidden moments” of time. If you, for example, do Pimsleur in the morning and then, say, a course in the evening, you'll find that the material from one will often reinforce the other. Add in some comprehensible input- bilingual/parallel text, a short news item, a song or even a tweet and you are using the "multi-track" approach. You don't have to and you shouldn't start off with a book. Start small and work your way up.
 
 Barry Farber described this phenomenon in his book "How to Learn Any Language" like this:
@@ -80,12 +82,14 @@ In the beginning, courses are most important. In a language like the Romance lan
 
 For native material, I wouldn't start off with Don Quixote or Harry Potter. I'd start off with a short news item (ideally with a bilingual text), a song or something of a few paragraphs and, over time, work my way up. Even if you have to look up every word in the dictionary at the beginning- in a short text, if you can puzzle out what the sentence means on your own, before you check the translation, you'll be on your way.
 
-How do you go about using the multi-track approach as a beginner?  
+## How do you go about using the multi-track approach as a beginner?
+
 Pick one or a couple of courses that don't annoy you too much. If you pick two, try to make sure they're complimentary. A classic combination is Pimsleur (or Michel Thomas/Language Transfer) and Assimil or FSI/DLI. Do them at the same time, not sequentially. For example, Pimsleur during the commute or at lunch and the book+audio course when you can set aside a block of time to devote to it. The two courses will be teaching you different things at different stages. Don't worry about that. This is good because you will see/hear something in one first and then later see/hear it in the other one. One tends to reinforce the other and that's synergy! It makes the concept more sticky. Flashcards can help as long as you're not obsessive about them by inputting and reviewing Anki cards so much that you end up working for Anki instead of having Anki work for you.
 
 I, personally, don't even use SRS at all- not for vocabulary or anything else. I never have. SRS is not an absolute must in language-learning. I don't count words, either. I learn them through having them reinforced in many ways, reading, listening, writing and speaking. Again there is nothing wrong with SRS as long as it is just one out of the many tools in your arsenal. When you start finding yourself hating the reviews, delete, delete, delete.
 
-**Comprehensible Input**  
+## Comprehensible Input
+
 Comprehensible input is the key. Comprehensible input means input that can be understood by means of a faithful translation or made to be understood by the use of visual clues, subtitles, a dictionary... something to make the meaning of the text or audio understandable to you.
 
 When you are missing too much to make sense out of something in native materials, as long as it's short, sure, do what you have to do to make sense out of it. Whether that means learning that short piece of text intensively by looking up every unknown word or using a parallel text that's ok, just don't obsess over it. If you can't figure it out... CHEAT! Cheat often! Brazenly cheat! There are many sources of bilingual texts available if you look, even if it's just a users manual for a device, government advice, or news items. See my post on [Using GlobalVoices.org to make simple parallel texts](http://forum.language-learners.org/viewtopic.php?f=19&t=2013&p=22480#p22480) to learn how to make a parallel text without too much trouble and without massive computer skills.
@@ -96,27 +100,32 @@ Speaking, as often as you can, even imperfectly, especially imperfectly, in conv
 
 Of course, if you are going to post on lang8, don't be a “drive-by” poster. Take some time to cultivate good correctors by correcting TL speakers' English (or your own language) posts. Make sure to give good detailed corrections (the kind you would like to have yourself) and explain to the best of your ability why you are correcting such and such. A good corrector is worth their weight in gold, do this and motivated learners will beat a path to your door. It can even open up opportunities for free language exchanges and perhaps even a friendship.
 
-**What benefits are there with the multi-track approach?**  
+## What benefits are there with the multi-track approach?
+
 Often, learners will be going great guns in the beginner stages with just their courses and then hit a wall in the intermediate stage because they haven't learned how to learn on their own without the course holding their hand. Using the multi-track approach, you won't have those problems because you'll be used to figuring things out without the guidance of the course. As you progress through your course, the outside resources will become more and more important as the course becomes less of a focus. At this point the course becomes more of a tool to solve the problems you're having rather than serving to teach you from scratch. It's one thing for the course to tell you how the imperfect tense is used, or how the subjunctive is used and why. It's another thing entirely to have already seen these constructions and heard them well before your course gets to it and be aware of it. Then, when you reach that point in your course where these constructions are taught, you'll be thinking- "ahhh, that's why they do it that way!". Instead of "what's this!", "how am I ever going to learn this?".
 
 The language you are learning has speakers who have accents, speak fast sometimes, use slang and idioms, run words together, drop letters and do other frustrating things that your course never quite gets around to teaching you. If you already know that and have been exposed to it, the intermediate stage will be a lot easier for you. It will still be hard, just not nearly as daunting because you will now know how to learn on your own- because that's what you've already been doing all along by using the multi-track approach. You won't need Course Part II or III. In fact, you may not even finish the course you're using because you may become so good at teaching yourself that you won't need it- and that's what it's all about- turbocharging your learning and making connections on your own. When you make your own connections, the words and concepts seem to stick better in your mind.
 
-**So, how and where do you start adding in native material?**  
+## So, how and where do you start adding in native material?
+
 You don't have to start with a novel, children's literature or watching a television series or films. A short podcast- one to two minutes, a song with an accurate translation, or a 140 character tweet are sufficient at first, after you can at least conjugate verbs in the present tense, perhaps after a quarter or a third of whatever course you may be using. If it takes you a while to get through a three paragraph Aesop's fable (with audio and bilingual text to check your comprehension) or a short text/news item, no worries. The main thing is to not give up and not to get discouraged. Be persistent and consistent. The more you do this the more critical mass you will build. Have faith that eventually, gradually, it will start to become clearer. Then one day, it will be very clear indeed, but it takes time. It is not going to happen overnight.
 
 Barry Farber talks about waiting to start the multi-track approach until you've done 5 lessons and then pick a newspaper or magazine article (printed of course, his book was written pre-internet). His advice is to look at the first paragraph and highlight every unknown word, look them up in a dictionary (remembering that words do crazy things sometimes- like conjugations, gender, plurals, nowadays there's linguee, WordReference and google translate) and enter them into a flashcard. Personally, I skip the flashcards, but if you want to use them- don't overdo it. You could also make a list, or not. Memorization is a whole 'nother aspect of language-learning.
 
 My advice is an adaptation of Farber's. Your forays into the real world should be limited- at first. If you have an hour a day to devote to language learning, try to take just 10 minutes or so out of that hour of structured study with your course to puzzle out some native text not from your course, trying to understand a song, decipher a tweet or a short text at least a couple of days a week- the more the better. Don't worry that it doesn't make much sense at first or if you only have a vague gist of an understanding. Don't worry if you have to look up every single word in the dictionary- at first. Later, you should try to concentrate on reading and instead make guesses, try to figure out words/constructions from context or prior knowledge of a text. What matters is building critical mass. So, don't get so obsessed with any particular text or audio that you don't move on to the next one. The more you do this, at the same time as you are using your course, the more opportunity you have for synergy to work its magic. The more texts/audios (comprehensible) you go thorugh, the more chance you have to see words and grammar constructions again in a natural context. The same goes for speaking and listening- which is another topic entirely that I am not going to get into discussing right now.
 
-**How I integrated this approach into my learning day**  
+## How I integrated this approach into my learning day
+
 I take a walk every day for 45 minutes or so, I use that time to listen to native podcasts, music or audio books. When I was learning Haitian Creole actively, I used it for Pimsleur, a learner designed audio book course and/or a Haitian news podcast. I would often spot a word or phrase I had heard in Pimsleur or studied in my DLI HC Basic Course. I also met once a week for conversation practice with a Haitian friend. Words and phrases reinforced each other across all those "tracks". (Caveat: Pimsleur isn't for everyone. It has its issues, as all courses do. )
 
 When I was learning Portuguese, I listened to the NHK World Brazilian Portuguese newscast every day (along with doiung my two courses- Pimsleur and DLI)- because it had a transcript and I could also find the same stories on their English site. The newscast was 10 to 15 minutes long. With daily listening I was able to take advantage of repetition of an ongoing story. I could go back and read the transcript. At home, I could read and listen to the text. At the same time I was studying Pimsleur and DLI Portuguese Basic Course (Disclosure: I already spoke Spanish prior to learning Portuguese). I also chatted online with native-speakers, listened to the Deutsche Welle radionovelas with transcripts and bilingual text when needed, and used a tutor for 1 hour skype conversation sessions a couple of days a week (cheaper than you think- $10 US/hr).
 
-**Twitter is a great resource.**  
+### Twitter is a great resource.
+
 You can follow people who tweet in your TL who write about topics that interest you. If you have a smart phone, you can check your twitter feed at idle times while you're waiting. Now, twitter even has built in bing translate, but beware- it can be, and is at times, inaccurate. Still, it can help with figuring things out. I learned how to read the Cyrillic alphabet through member Serpent's tweets. I could write a whole post on how Twitter has helped me in language-learning.
 
-**How to find your own native material**  
+### How to find your own native material
+
 You may hate news and love sports, cinema, the environment, politics, fantasy books, science fiction, music, travel or something else. There is something for you out there, I guarantee it. You just have to find it. One way to find it is to use Wikipedia to look up a subject in your native language and then click your target language, if available. You'll get the TL equivalent of what you're looking for and maybe some external links to follow at the bottom of the TL article. Searching the internet via the TL is the way to go. For instance, if I want the lyrics to a song in Spanish, I enter the song name + “letra” which means “lyrics”. Also, you can search or ask on the forum. Most of us are here to help. Be patient, it may take a few days to get a response depending on the language.
 
 Yes, it will be frustrating working with material from the real world, but don't quit working with native materials (again, I'm not talking novels and Almodóvar films here, at least in the beginning stages) because you're simply "uneasy". Quit because you feel, as emk says, like you may be hitting your head against a brick wall. If that's the case, then BY ALL MEANS, STOP!!!! and come back to it later after some more course work. Just don't let simple unease be an easy out. Remember, at some point you will have to transition to native materials if you want to advance your language skills, and you won't be perfect. No course will, on it's own, take you to proficiency. If you accustom yourself to the real world sooner rather than later, it can show you what you have to do to get there and give you a benchmark to work towards.
@@ -125,11 +134,13 @@ Specific materials do not matter as much as the technique itself. Just make sure
 
 The GLOSS lessons teach from real world examples and work on both listening and reading. The audio is the real thing, not unnaturally slowed down and clearly articulated, like in many courses- including Assimil. If you aren't using it as part of your learning routine, you should definitely have a look. It's good enough for the US military/government for their own instructional use. Have a look at the link before dismissing it out of hand.
 
-**Music**  
+### Music
+
 Brazilian music was a big part of what got me interested in learning Spanish and Portuguese in the first place. I memorized the first verses of Tom Jobim's "Aguas de março" when I started learning Brazilian Portuguese and found a lesson online about the song, before I knew anything about lyricstraining.  
 The Lyrics Training site can be a fun introduction to learning with native materials. It can also be used for training listening at the same time. Youtube has many popular songs in TL in a karaoke version with the lyrics straming across the screen.
 
-**In Conclusion**  
+## In Conclusion
+
 My point in writing this post is to encourage people, especially beginners, to push themselves just a bit, to make and discover connections on their own, to spice up their routine and give themselves the power of synergy. As a learner, you don't have to do any of this at all if you don't want to do so. As long as you are having fun and learning something, that's all that matters. Be aware, though, that it may take you much longer to reach a higher level following the course-only method and you may run into a brick wall at some point, eventually.  
 Courses will only take a learner so far. In the intermediate stage for many languages, there may be few, to even no, courses available. So, there will have to be a transition to native materials and speakers anyway if the learner wants to advance to a higher level. The multi-track approach gets the learner used to doing this process much earlier and avoids the shock and discouragement encountered by those who only learn with courses may face when confronted with the real thing in the real world.
 

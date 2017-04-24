@@ -12,7 +12,7 @@ categories: []
 tags: []
 comments: []
 ---
-**General information**
+## General information
 
 Finnish (Suomen kieli / Suomi) is the official language of Finland and an official minority language in Sweden. It is also the mother tongue of people of Finnish ancestry living in other neighbouring countries (e.g. Norway, Russia). Because of immigration since the 19th century, native speakers of Finnish also live in Australia, Canada, and the United States. Of the approximately 6 million speakers worldwide, 4.5 million live in Finland.
 
@@ -24,7 +24,7 @@ Finnish is useful in areas where Finnish or very closely-related languages are s
 
 Knowledge of Finnish would acquaint the learner with some features that are characteristic of Uralic (e.g. Hungarian, Udmurt) and Altaic languages (e.g. Mongolian, Turkish). In particular, knowledge of Finnish would provide a definite advantage in learning other Balto-Finnic languages (a subgroup of the Uralic family) such as Estonian, Karelian or Livonian. However, a prospective learner of Finnish should realize that learning Hungarian with a Finnish base is not as easy as learning Spanish with an English base for example.
 
-**Varieties/dialects**
+## Varieties/dialects
 
 The modern standard language is based on standardization efforts that started in the 19th century. Linguists are uncertain how to classify Finnish dialects as divisions vary. The least elaborate classification splits dialects into eastern and western groups. The most elaborate distinction recognizes eight groups: Southwestern, Southern Transitional, Häme, Southern Pohjanmaa, Central and Northern Pohjanmaa, Far Northern, Savonian, and Southeastern. Modern standard Finnish is based on a combination of features in eastern and western dialects. Today, the standard language is taught in all schools and colleges and this teaching has limited the problem of mutual unintelligibility among Finns.
 
@@ -32,7 +32,7 @@ There also exist Kven and Meänkieli which are defined as minority languages in 
 
 In modern Finnish there is a colloquial register (~ puhekieli “spoken language”) and a formal one (~ yleiskieli “standard language”) as taught in school. It is somewhat similar to the distinction between colloquial Czech and standard Czech. Standard Finnish occurs mainly in print and formal situations and its prescriptions demonstrate grammatical patterns or distinctions that are rarely used if not absent from spoken Finnish and reflect an earlier period when codifiers strove to create a literary language. Among other characteristics, words in spoken Finnish tend to be shorter than their equivalents in the standard language thanks to assimilation or omission of certain endings or unstressed syllables. For someone familiar with Estonian, spoken Finnish rather than standard Finnish may appear more similar to Estonian.
 
-**Learning with a background in other languages**
+## Learning with a background in other languages
 
 According to FSI, it takes approximately 1100 class hours to achieve professional speaking and reading proficiency in Finnish. It follows from FSI’s scale that the degree of difficulty in learning Finnish for a monolingual speaker of English is roughly the same as that of Estonian, Georgian, Hungarian, Mongolian, Thai or Vietnamese.
 
@@ -81,7 +81,7 @@ Fred Karlsson's comments on difficulty may also be relevant.
 > 
 > </div>
 
-**Grammatical overview**
+## Grammatical overview
 
 Main stress is fixed on the first syllable but it is not as strong as in English or Russian to the point of causing reduction of unstressed vowels. Finnish also differentiates between short and long sounds. Short sounds are expressed in print as single vowels or consonants. Long sounds are expressed in print as geminate vowels or consonants. Sandhi or changes of sounds at boundaries dividing words or morphemes is widespread in Finnish but rarely marked in writing. Changes in intonation can be used when emphasizing desired elements in a sentence.
 
@@ -141,7 +141,7 @@ y pronounced somewhat like “u” in French “tu” (you)
 
 Finnish in the 21st century has largely dropped the two-way T-V distinction in which to address one person politely or formally, one uses the 2nd person plural instead of the 2nd person singular. For addressing more than person, the 2nd person plural forms are used regardless of the level of formality or politeness. For example, it is now common in advertisements that the prospective consumer be addressed in the 2nd person singular rather than the 2nd person plural. In another example, it is usual for a receptionist to address a patient using the 2nd person singular even when neither person is acquainted with the other.
 
-**Mutual intelligibility with other languages**
+## Mutual intelligibility with other languages
 
 Most English-speaking learners will find little in Finnish that is instantly familiar at the outset apart from most of the Finnish alphabet and the occasional internationalism (e.g. hotelli, poliisi) or loanword (e.g. printata "to print", skannata "to scan").
 
@@ -203,12 +203,13 @@ When it comes to vocabulary, knowledge of Estonian can still be helpful but bewa
 
 E.g.
 
-- ilma "air, weather" || ilma "without" (Estonian) (N.B. the Finnish cognate of Estonian ilma is ilman)  
-- kannatus "support" || kannatus "pain, suffering" (Estonian)  
-- keittää "to cook" || keetma "to boil" (Estonian)  
-- linna "castle" || linn "town" (Estonian)  
-- raamattu "Bible" || raamat "book" (Estonian)  
-- tuore "fresh" || toores "crude; raw" (Estonian)- vene "boat" || vene "Russian" (adjective); "small boat cut from a log" (Estonian)  
+- ilma "air, weather" // ilma "without" (Estonian) (N.B. the Finnish cognate of Estonian ilma is ilman)
+- kannatus "support" // kannatus "pain, suffering" (Estonian)
+- keittää "to cook" // keetma "to boil" (Estonian)
+- linna "castle" // linn "town" (Estonian)
+- raamattu "Bible" // raamat "book" (Estonian)
+- tuore "fresh" // toores "crude; raw" (Estonian)
+- vene "boat" // vene "Russian" (adjective); "small boat cut from a log" (Estonian)
 
 In addition to words common to other Uralic languages, Finnish has a sizeable stock of Germanic loanwords not only because of hypothesized contact between Proto-Balto-Finnic (an ancestral language of Finnish) and Proto-Germanic but also because of the long influence on Finnish culture from Sweden’s domination of the Finns from the Middle Ages to the 19th century. It follows that some of these Germanic loanwords should also be discernible to speakers of English.
 
@@ -225,7 +226,8 @@ English has recently become an important source of loanwords in Finnish (especia
 E.g.
 
 bändi ("(music) band"); frendi ("buddy, friend"); hitti ("hit, success"); luuseri ("loser")  
-**Literature / Media / Film / Music**
+
+## Literature / Media / Film / Music
 
 For the learner of Finnish, there is plenty authentic material from Finnish culture that could enhance or enrich the learning experience.
 
@@ -237,7 +239,7 @@ Movies in Finnish can also provide a helpful diversion for students learning Fin
 
 A music lover who is learning Finnish can use Finnish songs to enhance understanding of the language, while also enjoying the creative efforts of Finnish musicians. Fans of classical music may take a liking to music by Sibelius or Rautavaara, while fans of rock or heavy metal may enjoy bands such as Apocalyptica (rather (neo)classical metal than conventional metal), Nightwish, Happoradio, Uniklubi, Jonne Aaron and PMMP. Prominent Finns active in dance or electronic music include Ville Virtanen (a.k.a. Darude), Harri Andersson (a.k.a. DJ Proteus), and Tapio Hakanen (a.k.a. Orkidea).
 
-**Learning material**
+## Learning material
 
 i) Books
 
@@ -392,9 +394,8 @@ i) Books
  22) Grundwortschatz Finnisch (Harald Molan)  
 - This is a thematic guide of basic vocabulary with examples. It has been well-received and if one is looking for a Finnish-German list of essential vocabulary, this is the one to get! (similar books are not as good as this one, and sometimes seem to be incomplete compilations from Google Translate).  
 - Each Finnish entry is presented such that adjectives/nouns are displayed with their respective forms in genitive singular, partitive singular and partitive plural. Each verb is shown with its endings in 1st person singular present and 1st person singular past, the past active participle and its conjugation class.  
-- Sample pages of the book are available  
-
-[here](http://www.beck-shop.de/fachbuch/leseprobe/9783875485707_Excerpt_003.pdf).- The price is approximately 20 Euros.  
+- Sample pages of the book are available  [here](http://www.beck-shop.de/fachbuch/leseprobe/9783875485707_Excerpt_003.pdf).
+- The price is approximately 20 Euros.  
 
  23) Lextra - Finnisch - Sprachkurs (Ed. Gesine Goldammer, Anu Karjalainen et al.)  
 - This is a German adaptation of "Teach Yourself Finnish" by Terttu Leney; many of the dialogues and much of the content are translated from the English original.  
@@ -489,7 +490,9 @@ i) Books
 - It's a list mainly of verbs but also some nouns and adjectives with examples showing case governance and/or required forms for complements. For example it not only shows that the complement of pitää takes elative case when translating "to like, be fond of" but it indicates this kind of information even when the complement is an infinitive or participle. For example it indicates that after aika "time", the complement is the first infinitive as in Nyt on aika lähteä "Now is the time to leave".  
 - It's more or less the only book of it's kind and completely in Finnish. There's also "Rakastan sinua. Pidätkö sinä minusta" by the same authors which has similar content. However it covers only verbs whereas "Tarkista tästä" covers some nouns and adjectives in addition to verbs as already mentioned.- It costs about 40 Euros.  
 
-*Interesting note for students of Finnish: Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard “Kielitoimiston sanakirja” of 100,000 headwords in 36) under “i) Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.FINNISH-ESTONIAN  
+**Interesting note for students of Finnish:** Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard “Kielitoimiston sanakirja” of 100,000 headwords in 36) under “i) Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.
+
+FINNISH-ESTONIAN  
 
  i) Mägi, Ruth et al. (ed.) “Soome-eesti seletav sõnaraamat”. Tallinn: TEA Kirjastus, 2007\. (Finnish-Estonian explanatory dictionary, 50,000 headwords, ISBN-13 978-9985715178, 40-70 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)  
 
@@ -522,307 +525,136 @@ If coverage, cost and ease of use were the overriding factors, then the Finnish-
 
 For myself, it'd be a toss-up between the Finnish-Estonian dictionaries i) and iv) or effectively a matter of ease of use versus quantity of headwords. Almost every headword in the Finnish-Estonian explanatory dictionary i) has a list of its core inflected forms rather than cross-referencing to a model word in the appendix as in the large Finnish-Estonian dictionary iv). Yet this same large Finnish-Estonian dictionary iv) has almost twice the headwords (90,000 headwords versus 50,000 in i)). The retail price of each dictionary varies but it's common to find either dictionary fetching at least 40 Euros and so the outlay should be almost the same. In either case, paying about 40 Euros would be much easier to stand than paying 80 Euros for the standard Finnish explanatory dictionary or at least 90 Euros for WSOYpro's large Finnish-German or Finnish-Swedish dictionaries.
 
-**If you need to buy Finnish books, you have a choice between Suomalainen kirjakauppa (“Finnish Bookstore”), Akateeminen kirjakauppa (“Academic Bookstore”), Adlibris.com, Cdon.eu, Info.fi, Ruslania.com, and Booky.fi. All of these offer online ordering but of those able to ship outside Finland, Info.fi, Ruslania.com and Booky.fi will do so worldwide to the best of my knowledge. Cdon.eu ships to Scandinavia and Western Europe. In any case, beware of shipping costs (see below for more information). Adlibris is a Swedish bookseller which does business throughout Scandinavia while Bookplus.fi, Info.fi and Ruslania.com are Finnish operations. Info.fi sometimes offers dictionaries at lower prices than the competition and was also where I bought a copy of Gummerus' new and large English-Finnish dictionary for 17 Euros rather than the regular price of approximately 80 Euros. Despite its name and focus on selling Russian books, Ruslania also carries Finnish books. Shipping costs to places outside the EU may be high, and combined with customs could make securing Finnish materials more expensive than one would anticipate. Finally there is also huuto.fi which is rather like a Finnish version of eBay and a potential source of Finnish media or learning material second-hand.
+**If you need to buy Finnish books,** you have a choice between Suomalainen kirjakauppa (“Finnish Bookstore”), Akateeminen kirjakauppa (“Academic Bookstore”), Adlibris.com, Cdon.eu, Info.fi, Ruslania.com, and Booky.fi. All of these offer online ordering but of those able to ship outside Finland, Info.fi, Ruslania.com and Booky.fi will do so worldwide to the best of my knowledge. Cdon.eu ships to Scandinavia and Western Europe. In any case, beware of shipping costs (see below for more information). Adlibris is a Swedish bookseller which does business throughout Scandinavia while Bookplus.fi, Info.fi and Ruslania.com are Finnish operations. Info.fi sometimes offers dictionaries at lower prices than the competition and was also where I bought a copy of Gummerus' new and large English-Finnish dictionary for 17 Euros rather than the regular price of approximately 80 Euros. Despite its name and focus on selling Russian books, Ruslania also carries Finnish books. Shipping costs to places outside the EU may be high, and combined with customs could make securing Finnish materials more expensive than one would anticipate. Finally there is also huuto.fi which is rather like a Finnish version of eBay and a potential source of Finnish media or learning material second-hand.
 
 In the UK, Bay Foreign Language Books Ltd. carries some Finnish learning materials while in the USA, Schoenhof’s and North Wind Books carry such material. See the subsection “Online material and links to information of interest” below for the URLs of these shops
 
-ii) Online material and links to information of interest
-
-Discussions, posts or logs on how-to-learn-any-language.com involving Finnish:  
-
-[6WC - Finnish (MGF)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=5637&PN=1)
-
-[Accelerated Challenge (Feb) - Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30352&PN=0&TPN=1)
-
-[The Awesome Difficulty of Korean, Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32128&PN=1&TPN=1)
-
-[A Few Finnish Questions](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22096&PN=1)
-
-[Changes in Spoken Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32322&PN=0&TPN=1)
-
-[Chung at work / Chung pri práci](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=20162&PN=1)
-
-[Determined to learn Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=28675&pn=0&TPN=1)
-
-[Easiest Finno-Ugric language?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32553&PN=0&TPN=1)
-
-[Estonian/Finnish/Hungarian "cheat sheet"](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19916&PN=1)
-
-[Evita's TAC 2008 - Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=10274&PN=1)
-
-[Feanarosurion's Finnish Journey](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21443&PN=1)
-
-[Finnish & Estonian](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14795&PN=1)
-
-[Finnish books](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14138&PN=0&TPN=1)
-
-[Finnish Dictionary + Example Sentences](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21848&PN=1)
-
-[Finnish: Hard as its reputation?](http://how-to-learn-any-language.com/forum/keyword.asp?KW=19)
-
-[Finnish Language Grammar Thread](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21073&PN=1)
-
-[Finnish language materials](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21100&PN=1)
-
-[Finnish: most difficult language?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=810&PN=0&TPN=1)
-
-[Finnish Online Resources](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22300&PN=1)
-
-[Finnish Partitive Sing. and Plu.](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=26980&PN=0&TPN=1)
-
-[Finnish thread](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=3857&PN=1)
-
-[Hungarian or Finnish - please help!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=8454PN=1)
-
-[Learning Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=4707&PN=1)
-
-[Mick's 2010 TAC Log Multilingual Bliss!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=18662&PN=1)
-
-[Mick’s 2012 log Teams *jäŋe / *ledús & Žá](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30604&PN=4)
-
-[MoqT Log - Team *jäŋe/*ledús for TAC 2012](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30497&PN=4)
-
-[My journal for Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=4594&PN=1)
-
-[My journey through Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=11709&PN=1)
-
-[Serpent’s log](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=5099&PN=0&TPN=1)
-
-[The Sound of Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14132&PN=0&TPN=1)
-
-[What makes finnish so hard?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32825&PN=1)
-
-[日本語+Suomi](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24710&PN=0&TPN=1)
-
-Other forums or discussions from other forums  
-
- - Unilang's  
-
-[discussion forum](http://www.unilang.org/viewforum.php?f=46)for Finnish  
-
- - WordReference's  
-
-[discussion forum](http://forum.wordreference.com/forumdisplay.php?f=84)for Finnish  
-
- - An active  
-
-[discussion board](http://www.finlandforum.org/index.php)about Finland and Finnish life. It includes a sub-forum for learning Finnish which is called "Kielikoulu" (scroll down to the group "Finland Forum Regulars")  
-
- -  
-
-[Discussion about mutual intelligibility between Estonian and Finnish](http://forum.wordreference.com/showthread.php?t=428278)on WordReference  
-
- General treatment and descriptions of Finnish's learning difficulty  
-
- - Wikipedia's  
-
-[article](http://en.wikipedia.org/wiki/Finnish_language)on Finnish  
-
- -  
-
-[Finnish tutorial](http://www.ielanguages.com/finnish.html)at  
-
-[http://www.ielanguages.org](http://www.ielanguages.org)-  
-
-[Sketch of Finnish](http://everything2.com/title/Finnish)at everything2.com  
-
- Dictionaries and other databases  
-
- - A  
-
-[database](http://starling.rinet.ru/cgi-bin/main.cgi?root=config)on various language families including Uralic and a source of some of the etymologies.  
-
- - A  
-
-[website](http://www.nvtc.gov/lotw/months/november/learningExpectations.html)on language difficulty for native speakers of English  
-
- - A  
-
-[dictionary](http://www.sanakirja.org)of many languages including Finnish. When looking up Finnish words, the dictionary provides not only translations into other languages but it usually provides at least a few inflected forms of a Finnish word. This would be most useful for people who are learning Finnish without a printed dictionary that provides such information.  
-
- - The Finnish equivalent of Urban Dictionary,  
-
-[Urbaanisanakirja](http://urbaanisanakirja.com/)- Looking up Finnish entries in English  
-
-[Wiktionary](http://www.wiktionary.org)may also be useful as most of the Finnish entries there include full inflectional tables (i.e. they're more explicit and comprehensive than what you may find in the hard-copy of a Finnish dictionary). Looking up Finnish entries in Finnish Wiktionary may also be useful as a headword's page sometimes gives idiomatic phrases and/or example sentences.  
-
- -  
-
-[Online version](http://http://www.kielitoimistonsanakirja.fi/)of the large monolingual dictionary of Finnish.  
-
- -  
-
-[Information on the dictionary as a hard copy](http://www.kotus.fi/index.phtml?s=594)-  
-
-[Information on the dictionary as a CD-ROM](http://www.kotus.fi/index.phtml?s=495)Online courses or downloadable material  
-
- -  
-
-[Audio](http://languagelab.bh.indiana.edu/finnish_archive.html)of Meri Lehtinen's “Basic Course in Finnish” from Indiana University as .mp3 files  
-
- -  
-
-[FSI Finnish Graded Reader](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED024025)hosted at ERIC (textbook only)  
-
- -  
-
-[Spoken Finnish Vols. 1 and 2](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED089552)hosted at ERIC (textbooks only)  
-
- - Online  
-
-[courses](http://www.oneness.vu.lt/en/)from the ONENESS online language-learning project (includes Finnish)  
-
- -  
-
-[Self-study / Itseopiskelu](https://kielikeskus.jyu.fi/opetus/suomi-toisena-ja-vieraana-kielena/en/self-study-1/self-study)(Online course for self-study affiliated with the University of Jyväskylä. Some sections require free registration)  
-
- -  
-
-[Suomea, ole hyvä!](http://www04.edu.fi/suomeaolehyva/)-  
-
-[Supisuomea](http://www.yle.fi/opinportti/supisuomea/)-  
-
-[Tavataan taas!](http://donnerwetter.kielikeskus.helsinki.fi/FinnishForForeigners/)-  
-
-[Uuno](http://www.uuno.tamk.fi/)-  
-
-[Vilma](http://virtuoosi.pkky.fi/vilma/)(Graded texts on Finnish society with glossaries of difficult vocabulary and comprehension exercises but not suitable for novices learning on their own as glossaries and notes are in Finnish only)  
-
- -  
-
-[Ymmärrä suomea](http://www2.edu.fi/ymmarrasuomea/)-  
-
-[Finnish Language Lessons Podcast](http://finnish-podcast.blogspot.com/)-  
-
-[Random Finnish Lesson](http://randomfinnishlesson.blogspot.com/)blog  
-
- -  
-
-[Murrepeli](http://www.yle.fi/flashgame/peli/oppiminen/murteet/index.html)or game of dialects from YLE (Finnish national broadcaster).  
-
- -  
-
-[Bezpłatny kurs języka fińskiego](http://www.losiowisko.com/kurs-jezyka-finskiego.html)(for speakers of Polish)  
-
- -  
-
-[Lexin](http://lexin.nada.kth.se/lang/trio/fi/finska.htm)(picture dictionary from Sweden with most sections translated into Finnish)  
-
- -  
-
-[Изучаем финский язык](http://unelma.narod.ru/)(for speakers of Russian)  
-
- -  
-
-[Finn nyelvleckék](http://www.viita.eoldal.hu/cikkek/finn-nyelvleckek/)(lessons for speakers of Hungarian derived from parts 1 and 2 of "Finnish for Foreigners" by M-H Aaltio - 60 lessons planned, 44 available as of Oct. 28, 2012)  
-
- - Online  
-
-[reference](http://www.uta.fi/%7Ekm56049/finnish/)of Finnish grammar from the point of view of English-speakers  
-
- - A SUPERB  
-
-[website](http://www.uusikielemme.fi/index.html)with notes on Finnish grammar, thematic lists of vocabulary, and reviews and bibliographical information of various courses and dictionaries published in Finland.  
-
- - Online edition of  
-
-[Iso suomen kielioppi](http://scripta.kotus.fi/visk/sisallys.php?p=koko)which is a large reference manual on Finnish grammar (in Finnish only)  
-
- Other links related to Finnish courses  
-
- -  
-
-[List](http://www.faqs.org/faqs/nordic-faq/part4_FINLAND/section-7.html)of Finnish learning materials with bibliographical information and reviews  
-
- - UCLA’s  
-
-[page](http://www.lmp.ucla.edu/Profile.aspx?menu=004&LangID=29)on Finnish as part of the Language Materials Project (contains database of learning material for Finnish as well as links to Finland-related portals and websites)  
-
- - Order form from  
-
-[Finn Guild](http://www.finn-guild.org/public/FinnTalkOrderForm.pdf)for Leney and Needham's “Finn Talk” series.  
-
- -  
-
-[Announcement](http://finn.st/basiccourse/)by Gregory S. Isola (email:  
-
-[Greg@Finn.St](mailto:Greg@Finn.St)) who was planning to release an updated version of Lehtinen's “Basic Course in Finnish” by December 2010.  
-
- -  
-
-[Website](http://www.suomea.fi/)for “From Start to Finnish” which also hosts all audio for the textbook as Soundcloud files  
-
- -  
-
-[Website](http://www.suomenmestari.fi)for “Suomen Mestari” series which also hosts all audio for the textbooks as Soundcloud files  
-
- -  
-
-[Website](http://www.cornelsen.de/lextra/reihe/1.c.3093291.de/materialien)for “Lextra - Finnisch - Sprachkurs” which hosts course's audio as .mp3 files, courtesy the publisher, Cornelsen.  
-
- -  
-
-[List](http://www.expat-finland.com/living_in_finland/language_training.html)of sites providing information on learning Finnish in Finland at universities or private schools.  
-
- Bookstores that have Finnish inventory  
-
-[Adlibris](http://www.adlibris.com/fi/)
-
-[Akateeminen Kirjakauppa](http://www.akateeminenkirjakauppa.fi)
-
-[Bay Foreign Language Books Ltd.](http://www.baylanguagebooks.co.uk)
-
-[Booky.fi](http://www.booky.fi)
-
-[Cdon.eu](http://www.cdon.eu)
-
-[Info.fi](http://www.info.fi)
-
-[Northwind Books](http://www.northwindbooks.com/nw-books.aspx)
-
-[Ruslania.com](http://www.ruslania.com)
-
-[Schoenhof's](http://www.schoenhofs.com)
-
-[Suomalainen Kirjakauppa](http://www.suomalainen.com)
+## Online material and links to information of interest
+
+Discussions, posts or logs on how-to-learn-any-language.com involving Finnish:
+
+- [6WC - Finnish (MGF)](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=5637&PN=1)
+- [Accelerated Challenge (Feb) - Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30352&PN=0&TPN=1)
+- [The Awesome Difficulty of Korean, Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32128&PN=1&TPN=1)
+- [A Few Finnish Questions](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22096&PN=1)
+- [Changes in Spoken Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32322&PN=0&TPN=1)
+- [Chung at work / Chung pri práci](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=20162&PN=1)
+- [Determined to learn Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=28675&pn=0&TPN=1)
+- [Easiest Finno-Ugric language?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32553&PN=0&TPN=1)
+- [Estonian/Finnish/Hungarian "cheat sheet"](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=19916&PN=1)
+- [Evita's TAC 2008 - Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=10274&PN=1)
+- [Feanarosurion's Finnish Journey](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21443&PN=1)
+- [Finnish & Estonian](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14795&PN=1)
+- [Finnish books](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14138&PN=0&TPN=1)
+- [Finnish Dictionary + Example Sentences](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21848&PN=1)
+- [Finnish: Hard as its reputation?](http://how-to-learn-any-language.com/forum/keyword.asp?KW=19)
+- [Finnish Language Grammar Thread](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21073&PN=1)
+- [Finnish language materials](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=21100&PN=1)
+- [Finnish: most difficult language?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=810&PN=0&TPN=1)
+- [Finnish Online Resources](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=22300&PN=1)
+- [Finnish Partitive Sing. and Plu.](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=26980&PN=0&TPN=1)
+- [Finnish thread](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=3857&PN=1)
+- [Hungarian or Finnish - please help!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=8454PN=1)
+- [Learning Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=4707&PN=1)
+- [Mick's 2010 TAC Log Multilingual Bliss!](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=18662&PN=1)
+- [Mick’s 2012 log Teams *jäŋe / *ledús & Žá](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30604&PN=4)
+- [MoqT Log - Team *jäŋe/*ledús for TAC 2012](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=30497&PN=4)
+- [My journal for Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=4594&PN=1)
+- [My journey through Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=11709&PN=1)
+- [Serpent’s log](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=5099&PN=0&TPN=1)
+- [The Sound of Finnish](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=14132&PN=0&TPN=1)
+- [What makes finnish so hard?](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=32825&PN=1)
+- [日本語+Suomi](http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=24710&PN=0&TPN=1)
+
+Other forums or discussions from other forums
+
+- Unilang's [discussion forum](http://www.unilang.org/viewforum.php?f=46) for Finnish
+- WordReference's [discussion forum](http://forum.wordreference.com/forumdisplay.php?f=84) for Finnish
+- An active [discussion board](http://www.finlandforum.org/index.php) about Finland and Finnish life. It includes a sub-forum for learning Finnish which is called "Kielikoulu" (scroll down to the group "Finland Forum Regulars")
+- [Discussion about mutual intelligibility between Estonian and Finnish](http://forum.wordreference.com/showthread.php?t=428278) on WordReference
+
+General treatment and descriptions of Finnish's learning difficulty
+
+- Wikipedia's [article](http://en.wikipedia.org/wiki/Finnish_language) on Finnish
+- [Finnish tutorial](http://www.ielanguages.com/finnish.html) at [http://www.ielanguages.org](http://www.ielanguages.org)
+- [Sketch of Finnish](http://everything2.com/title/Finnish) at everything2.com
+
+Dictionaries and other databases
+
+- A [database](http://starling.rinet.ru/cgi-bin/main.cgi?root=config) on various language families including Uralic and a source of some of the etymologies.
+- A [website](http://www.nvtc.gov/lotw/months/november/learningExpectations.html) on language difficulty for native speakers of English.
+- A [dictionary](http://www.sanakirja.org) of many languages including Finnish. When looking up Finnish words, the dictionary provides not only translations into other languages but it usually provides at least a few inflected forms of a Finnish word. This would be most useful for people who are learning Finnish without a printed dictionary that provides such information.
+- The Finnish equivalent of Urban Dictionary, [Urbaanisanakirja](http://urbaanisanakirja.com/)
+- Looking up Finnish entries in English [Wiktionary](http://www.wiktionary.org) may also be useful as most of the Finnish entries there include full inflectional tables (i.e. they're more explicit and comprehensive than what you may find in the hard-copy of a Finnish dictionary). Looking up Finnish entries in Finnish Wiktionary may also be useful as a headword's page sometimes gives idiomatic phrases and/or example sentences.
+- [Online version](http://http://www.kielitoimistonsanakirja.fi/) of the large monolingual dictionary of Finnish.
+- [Information on the dictionary as a hard copy](http://www.kotus.fi/index.phtml?s=594)
+- [Information on the dictionary as a CD-ROM](http://www.kotus.fi/index.phtml?s=495)
+
+Online courses or downloadable material.
+
+- [Audio](http://languagelab.bh.indiana.edu/finnish_archive.html) of Meri Lehtinen's “Basic Course in Finnish” from Indiana University as .mp3 files.
+- [FSI Finnish Graded Reader](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED024025) hosted at ERIC (textbook only)
+- [Spoken Finnish Vols. 1 and 2](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED089552)hosted at ERIC (textbooks only)
+- Online [courses](http://www.oneness.vu.lt/en/) from the ONENESS online language-learning project (includes Finnish)
+- [Self-study / Itseopiskelu](https://kielikeskus.jyu.fi/opetus/suomi-toisena-ja-vieraana-kielena/en/self-study-1/self-study) (Online course for self-study affiliated with the University of Jyväskylä. Some sections require free registration)
+- [Suomea, ole hyvä!](http://www04.edu.fi/suomeaolehyva/)
+- [Supisuomea](http://www.yle.fi/opinportti/supisuomea/)
+- [Tavataan taas!](http://donnerwetter.kielikeskus.helsinki.fi/FinnishForForeigners/)
+- [Uuno](http://www.uuno.tamk.fi/)
+- [Vilma](http://virtuoosi.pkky.fi/vilma/) (Graded texts on Finnish society with glossaries of difficult vocabulary and comprehension exercises but not suitable for novices learning on their own as glossaries and notes are in Finnish only)
+- [Ymmärrä suomea](http://www2.edu.fi/ymmarrasuomea/)
+- [Finnish Language Lessons Podcast](http://finnish-podcast.blogspot.com/)
+- [Random Finnish Lesson](http://randomfinnishlesson.blogspot.com/) blog
+- [Murrepeli](http://www.yle.fi/flashgame/peli/oppiminen/murteet/index.html) or game of dialects from YLE (Finnish national broadcaster).
+- [Bezpłatny kurs języka fińskiego](http://www.losiowisko.com/kurs-jezyka-finskiego.html) (for speakers of Polish)
+- [Lexin](http://lexin.nada.kth.se/lang/trio/fi/finska.htm) (picture dictionary from Sweden with most sections translated into Finnish)
+- [Изучаем финский язык](http://unelma.narod.ru/) (for speakers of Russian)
+- [Finn nyelvleckék](http://www.viita.eoldal.hu/cikkek/finn-nyelvleckek/) (lessons for speakers of Hungarian derived from parts 1 and 2 of "Finnish for Foreigners" by M-H Aaltio - 60 lessons planned, 44 available as of Oct. 28, 2012)
+- Online [reference](http://www.uta.fi/%7Ekm56049/finnish/) of Finnish grammar from the point of view of English-speakers
+- A SUPERB [website](http://www.uusikielemme.fi/index.html) with notes on Finnish grammar, thematic lists of vocabulary, and reviews and bibliographical information of various courses and dictionaries published in Finland.
+- Online edition of [Iso suomen kielioppi](http://scripta.kotus.fi/visk/sisallys.php?p=koko) which is a large reference manual on Finnish grammar (in Finnish only)
+
+Other links related to Finnish courses
+
+- [List](http://www.faqs.org/faqs/nordic-faq/part4_FINLAND/section-7.html) of Finnish learning materials with bibliographical information and reviews
+- UCLA’s [page](http://www.lmp.ucla.edu/Profile.aspx?menu=004&LangID=29) on Finnish as part of the Language Materials Project (contains database of learning material for Finnish as well as links to Finland-related portals and websites)
+- Order form [Finn Guild](http://www.finn-guild.org/public/FinnTalkOrderForm.pdf) for Leney and Needham's “Finn Talk” series.
+- [Announcement](http://finn.st/basiccourse/) by Gregory S. Isola (email: [Greg@Finn.St](mailto:Greg@Finn.St)) who was planning to release an updated version of Lehtinen's “Basic Course in Finnish” by December 2010.
+- [Website](http://www.suomea.fi/) for “From Start to Finnish” which also hosts all audio for the textbook as Soundcloud files
+- [Website](http://www.suomenmestari.fi) for “Suomen Mestari” series which also hosts all audio for the textbooks as Soundcloud files
+- [Website](http://www.cornelsen.de/lextra/reihe/1.c.3093291.de/materialien) for “Lextra - Finnisch - Sprachkurs” which hosts course's audio as .mp3 files, courtesy the publisher, Cornelsen.
+- [List](http://www.expat-finland.com/living_in_finland/language_training.html) of sites providing information on learning Finnish in Finland at universities or private schools.
+
+Bookstores that have Finnish inventory 
+
+- [Adlibris](http://www.adlibris.com/fi/)
+- [Akateeminen Kirjakauppa](http://www.akateeminenkirjakauppa.fi)
+- [Bay Foreign Language Books Ltd.](http://www.baylanguagebooks.co.uk)
+- [Booky.fi](http://www.booky.fi)
+- [Cdon.eu](http://www.cdon.eu)
+- [Info.fi](http://www.info.fi)
+- [Northwind Books](http://www.northwindbooks.com/nw-books.aspx)
+- [Ruslania.com](http://www.ruslania.com)
+- [Schoenhof's](http://www.schoenhofs.com)
+- [Suomalainen Kirjakauppa](http://www.suomalainen.com)
 
 Miscellaneous marketplaces for Finnish material  
 
-[Huuto.fi](http://www.huuto.fi)
+- [Huuto.fi](http://www.huuto.fi)
 
-Literature and authentic texts  
+Literature and authentic texts
 
- - Audiobook at Librivox of Juhani Aho's  
+- Audiobook at Librivox of Juhani Aho's [Helsinkiin](http://librivox.org/helsinkiin-by-juhani-aho/) (public domain in the USA - check copyright status for other countries)
+- [Website](http://www.finlit.fi/kirjasto/digi/) of the Finnish Literature Society with some online texts from Finnish literature of the 19th century
+- Online collection of [children's storybooks](http://www.childrenslibrary.org/icdl/SimpleSearchCategory?ids=&pnum=1&cnum=1&text=&lang=English&langid=314) in Finnish from the International Children's Digital Library.
+- Free content in Finnish at [Wikisource](http://fi.wikisource.org/wiki/Main_Page) including full online text of Kalevala and selected works by Minna Canth and Juhani Aho among other writers.
 
-[Helsinkiin](http://librivox.org/helsinkiin-by-juhani-aho/)(public domain in the USA - check copyright status for other countries)  
+Downloadable/streamed media 
 
- -  
-
-[Website](http://www.finlit.fi/kirjasto/digi/)of the Finnish Literature Society with some online texts from Finnish literature of the 19th century  
-
- - Online collection of  
-
-[children's storybooks](http://www.childrenslibrary.org/icdl/SimpleSearchCategory?ids=&pnum=1&cnum=1&text=&lang=English&langid=314)in Finnish from the International Children's Digital Library.  
-
- - Free content in Finnish at  
-
-[Wikisource](http://fi.wikisource.org/wiki/Main_Page)including full online text of Kalevala and selected works by Minna Canth and Juhani Aho among other writers.  
-
- Downloadable/streamed media  
-
-[Selkouutiset](http://www.yle.fi/selkouutiset/index.php?id=8062)
-
-or daily broadcasts of news from the Finnish Broadcasting Company (YLE) in "Simple Finnish" meant for immigrants and others who are learning Finnish as a foreign language.  
-
- -  
-
-[YLE's streaming service](http://areena.yle.fi/)for radio and television (some content can be played only within Finland or via a Finnish IP address),  
-
-[instructions in English to listen to or watch programs in Finnish or Swedish](http://www.yle.fi/elavaarkisto/?s=t&n=archive)from YLE's archives.  
-
- - List of Finnish  
-
-[radio stations](http://www.listenlive.eu/finland.html)with internet streaming.
+- [Selkouutiset](http://www.yle.fi/selkouutiset/index.php?id=8062) or daily broadcasts of news from the Finnish Broadcasting Company (YLE) in "Simple Finnish" meant for immigrants and others who are learning Finnish as a foreign language.
+- [YLE's streaming service](http://areena.yle.fi/) for radio and television (some content can be played only within Finland or via a Finnish IP address),
+- [instructions in English to listen to or watch programs in Finnish or Swedish](http://www.yle.fi/elavaarkisto/?s=t&n=archive) from YLE's archives.
+- List of Finnish [radio stations](http://www.listenlive.eu/finland.html) with internet streaming.
 
 > Credits: Edited by Senior Forum Member [Chung](http://forum.language-learners.org/memberlist.php?mode=viewprofile&u=62).
 > 
