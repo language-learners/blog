@@ -411,7 +411,9 @@ Other forums
 General collections of links
 
 - A wide-ranging [site](http://seelrc.org/webliography/hungarian.ptml) on many aspects of the language (e.g. grammar, education, professional organizations)
-- General treatment and descriptions of Hungarian's learning difficulty
+
+General treatment and descriptions of Hungarian's learning difficulty
+
 - Wikipedia's [article](http://en.wikipedia.org/wiki/Hungarian_language) on Hungarian
 - A [website](http://www.nvtc.gov/lotw/months/november/learningExpectations.html) on language difficulty for native speakers of English
 - [Script, Grammar, and the Hungarian Writing System.](http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED072689) from ERIC (compares the Hungarian script, grammar and writing system with those of English to show potential effects on foreign language learning)
