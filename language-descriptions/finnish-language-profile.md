@@ -110,11 +110,11 @@ Word order is usually subject-verb-object but can vary as the use of suffixes or
 
 One area of Finnish grammar that may be initially difficult to learn or grasp is the treatment of the direct object. Finnish declension of direct objects depends on:
 
-1) whether the direct object is countable or not
-2) whether the direct object is the recipient of a completed or ongoing action or not (i.e. “resultative action” versus “irresultative action”)
-3) whether the direct object is the recipient of a negated action or not
-4) whether the direct object is a defined amount or one countable thing or not
-5) whether the direct object is a personal pronoun or not6) whether the direct object is countable and the recipient of either an affirmative action in the imperative or that of an act of obligation (i.e. countable direct object of a sentence using the Finnish equivalent of "must")
+1. whether the direct object is countable or not
+2. whether the direct object is the recipient of a completed or ongoing action or not (i.e. “resultative action” versus “irresultative action”)
+3. whether the direct object is the recipient of a negated action or not
+4. whether the direct object is a defined amount or one countable thing or not
+5. whether the direct object is a personal pronoun or not6) whether the direct object is countable and the recipient of either an affirmative action in the imperative or that of an act of obligation (i.e. countable direct object of a sentence using the Finnish equivalent of "must")
 
 In brief, the accusative as used in an inflecting language such as German or Latin can be expressed in Finnish with either nominative, accusative (personal pronouns only), genitive or partitive. The choice of case ending depends on how it aligns with the criteria above.
 
@@ -152,7 +152,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
       _Minä olen ostannut kirjan._ (Finnish)<br>
       _Ich habe ein Buch gekauft._ (German)
 
-2) Estonian treatment of the direct object is somewhat similar to that of Finnish where the direct object's declension depends on the verb's aspect, affirmativeness, the degree of involvement inherent in the action, or the degree to which the direct object is affected by the action.
+2. Estonian treatment of the direct object is somewhat similar to that of Finnish where the direct object's declension depends on the verb's aspect, affirmativeness, the degree of involvement inherent in the action, or the degree to which the direct object is affected by the action.
 
     E.g.
     - "I'm drinking (some) beer."<br>
@@ -162,7 +162,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
       _Mä juon oluen._ (Finnish - _oluen_ is genitive of _olut_)<br>
       _Ma joon õlle (ära)._ (Estonian - _õlle_ is genitive of _õlu_)
 
-3) In contrast to standard Finnish, apocope (i.e. dropping of final unstressed syllables), syncope (i.e. dropping of medial unstressed syllables) and assimilation of certain clusters is widespread in colloquial Finnish and is reminiscent of Estonian which has undergone similar development.
+3. In contrast to standard Finnish, apocope (i.e. dropping of final unstressed syllables), syncope (i.e. dropping of medial unstressed syllables) and assimilation of certain clusters is widespread in colloquial Finnish and is reminiscent of Estonian which has undergone similar development.
 
     E.g.
 
@@ -175,7 +175,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
       _Miks ne antaa mulle kirjeen?_ (Colloquial Finnish)<br>
       _Miks nad annavad mulle kirja?_ (Estonian)
 
-4) Colloquial Finnish like Estonian is not as strongly agglutinative as standard Finnish with apocope leading to the disuse of some suffixes. In turn, this has meant that their typology has become more isolating or analytic than standard Finnish. Manifestations of the stronger isolation or analysis are a greater tendency to retain pronouns (i.e. less "pro-dropping") and replacement of possessive suffixes with possessive pronouns, thus leaving the possessed object without possessive endings.
+4. Colloquial Finnish like Estonian is not as strongly agglutinative as standard Finnish with apocope leading to the disuse of some suffixes. In turn, this has meant that their typology has become more isolating or analytic than standard Finnish. Manifestations of the stronger isolation or analysis are a greater tendency to retain pronouns (i.e. less "pro-dropping") and replacement of possessive suffixes with possessive pronouns, thus leaving the possessed object without possessive endings.
 
     E.g.
 
