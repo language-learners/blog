@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: French You Tube Resources - A guest post by Sizen
+title: French YouTube resources - (guest post by Sizen)
 author: Sizen
 wordpress_id: 78
 wordpress_url: http://language-learners.org/?p=78

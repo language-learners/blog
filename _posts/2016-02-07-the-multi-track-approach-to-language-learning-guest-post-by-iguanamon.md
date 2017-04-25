@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: The "multi-track" approach to language learning (Guest Post by iguanamon)
+title: The "multi-track" approach to language learning (guest post by iguanamon)
 author: iguanamon
 wordpress_id: 81
 wordpress_url: http://language-learners.org/?p=81
