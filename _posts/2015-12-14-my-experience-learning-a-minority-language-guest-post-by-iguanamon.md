@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: My Experience Learning a Minority Language (Guest Post by iguanamon)
+title: My experience learning a minority language (guest post by iguanamon)
 author: iguanamon
 wordpress_id: 67
 wordpress_url: http://language-learners.org/?p=67
