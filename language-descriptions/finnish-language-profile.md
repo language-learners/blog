@@ -42,10 +42,10 @@ As suggested in the subsequent section on intelligibility, learners with a backg
 
 For native speakers of an Indo-European language such as me, these are features that I found which caused the most difficulty at the beginning:
 
-1) Consonant gradation
-2) Treatment of a direct object or predicate
-3) Correct use of the partitive plural and genitive plural
-4) Unfamiliar vocabulary for speakers of most Indo-European languages (this problem is alleviated in varying degrees if one already knows another Uralic or Altaic language or is fluent in a Balto-Slavonic or Germanic language.)
+1. Consonant gradation
+2. Treatment of a direct object or predicate
+3. Correct use of the partitive plural and genitive plural
+4. Unfamiliar vocabulary for speakers of most Indo-European languages (this problem is alleviated in varying degrees if one already knows another Uralic or Altaic language or is fluent in a Balto-Slavonic or Germanic language.)
 
 Fred Karlsson's comments on difficulty may also be relevant.
 
@@ -515,16 +515,13 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - It's a list mainly of verbs but also some nouns and adjectives with examples showing case governance and/or required forms for complements. For example it not only shows that the complement of pitää takes elative case when translating "to like, be fond of" but it indicates this kind of information even when the complement is an infinitive or participle. For example it indicates that after aika "time", the complement is the first infinitive as in Nyt on aika lähteä "Now is the time to leave".
     - It's more or less the only book of it's kind and completely in Finnish. There's also "Rakastan sinua. Pidätkö sinä minusta" by the same authors which has similar content. However it covers only verbs whereas "Tarkista tästä" covers some nouns and adjectives in addition to verbs as already mentioned.- It costs about 40 Euros.
 
-**Interesting note for students of Finnish:** Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard “Kielitoimiston sanakirja” of 100,000 headwords in 36) under “i) Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.
+**Interesting note for students of Finnish:** Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard _Kielitoimiston sanakirja_ of 100,000 headwords in 36) under “Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.
 
 FINNISH-ESTONIAN
 
 1. Mägi, Ruth et al. (ed.) _Soome-eesti seletav sõnaraamat_. Tallinn: TEA Kirjastus, 2007\. (Finnish-Estonian explanatory dictionary, 50,000 headwords, ISBN-13 978-9985715178, 40-70 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
-
 2. Pihel, Kalju & Arno Pikamäe (eds.) _Soome-eesti sõnaraamat_ (4th ed.). Tallinn: Valgus, 2007\. (Finnish-Estonian dictionary, 50,000 headwords, ISBN-13 978-9985680544, 20-30 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
-
 3. Vaba, Mari (ed.) _Soome-eesti / eesti-soome taskusõnastik_. Tallinn: TEA Kirjastus, 2003\. (Finnish-Estonian / Estonian-Finnish pocket dictionary, 30,000 headwords, ISBN-13 978-9985713402, 10-20 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
-
 4. Valdek, Pall et al. (ed.) _Soome-eesti suursõnaraamat I-II_. Tallinn: Eesti Keele Sihtasutus, 2003\. (Large Finnish-Estonian dictionary, 90,000 headwords and entries, 2 volumes, ISBN-13 978-9985790021, 40-60 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
 
 FINNISH-GERMAN

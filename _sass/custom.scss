@@ -26,3 +26,11 @@ header nav a:before {
     line-height: 40px;
   }
 }
+
+// Fix for nested lists spacing. See Finnish profile for an example.
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin-bottom: 15px;
+}
