@@ -1,0 +1,28 @@
+footer nav a {
+  display: block;
+}
+
+// Use selectors to spaces between links in the header by default.
+header nav a:first-child:before {
+  content: '';
+}
+header nav a:before {
+  content: ' • ';
+}
+
+@include media-query($on-palm) {
+  header nav a {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  // Override bullets when we're showing the link menu.
+  header nav a:before {
+    content: '';
+  }
+
+  header .site-nav {
+    line-height: 40px;
+  }
+}
