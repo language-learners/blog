@@ -12,6 +12,9 @@ categories: []
 tags: []
 comments: []
 ---
+* TOC
+{:toc}
+
 ## General information
 
 Finnish (Suomen kieli / Suomi) is the official language of Finland and an official minority language in Sweden. It is also the mother tongue of people of Finnish ancestry living in other neighbouring countries (e.g. Norway, Russia). Because of immigration since the 19th century, native speakers of Finnish also live in Australia, Canada, and the United States. Of the approximately 6 million speakers worldwide, 4.5 million live in Finland.
