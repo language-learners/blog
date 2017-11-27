@@ -54,7 +54,7 @@ do happen online, unfortunately, since being on the web gives many a sense of im
 us hurt for months, if not for years. 
 
 Should we meet a person whose self-confidence has been harmed by someone else’s nastiness, it’s our duty to offer moral support. 
-Language learning community should be a brotherhood – not a battlefield. Sometimes it’s enough just to tell an insecure person that 
+Language learning community should be a brotherhood (and a sisterhood, of course), but not a battlefield. Sometimes it’s enough just to tell an insecure person that 
 they are in fact very good and on the right track. For various cultural reasons we might shy away from praising others, but a kind 
 word spoken sincerely at the right moment can really work miracles.
 
@@ -65,5 +65,5 @@ most importantly, to believe in ourselves. We need to learn to seek help from th
 influence can be destructive. And, most importantly, we need to know exactly what we are doing it all for.
 
 > This guest post is written by forum member LinguaPony who speaks and writes in her native Russian and in English with equal easy 
-and is now learning Italian and Mandarin Chinese with four more languages to be added within three years. YOu can read her language 
+and is now learning Italian and Mandarin Chinese with four more languages to be added within three years. You can read her language 
 log here: [https://forum.language-learners.org/viewtopic.php?f=15&t=7160](https://forum.language-learners.org/viewtopic.php?f=15&t=7160). 
