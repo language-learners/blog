@@ -64,6 +64,6 @@ motivation can ruin it all. So, in order to succeed we need to learn to replenis
 most importantly, to believe in ourselves. We need to learn to seek help from the right people and to run a mile from those whose 
 influence can be destructive. And, most importantly, we need to know exactly what we are doing it all for.
 
-> This guest post is written by forum member LinguaPony who speaks and writes in her native Russian and in English with equal easy 
+> This guest post is written by forum member LinguaPony who speaks and writes in her native Russian and in English with equal ease 
 and is now learning Italian and Mandarin Chinese with four more languages to be added within three years. You can read her language 
 log here: [https://forum.language-learners.org/viewtopic.php?f=15&t=7160](https://forum.language-learners.org/viewtopic.php?f=15&t=7160). 
