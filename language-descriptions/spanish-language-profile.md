@@ -149,6 +149,7 @@ As an international language with millions of native speakers, Spanish has wide 
 - [Podcastsinspanish.org](http://www.podcastsinspanish.org/)
 - [Spanish obsessed](https://spanishobsessed.com/)
 - [conjugacion.es](http://www.conjugacion.es/)
+- [Spanish Resources to become fluent](https://tutorful.co.uk/blog/learning-spanish-the-best-resources-to-become-fluent/)
 
 \*More than one speaker speaking Spanish
 
