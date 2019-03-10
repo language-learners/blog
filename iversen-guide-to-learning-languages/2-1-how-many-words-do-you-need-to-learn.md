@@ -1,0 +1,44 @@
+---
+layout: page
+title: 2.1 How many words do you need to learn?
+author: Iversen
+---
+*This section begins the Second part - How to learn words and expressions.*
+
+The main obstacle to reading and listening fluently is lack of vocabulary. For some people it may be difficult to remember words without contexts, but my own experience with wordlists have shown me that I can learn words much faster by using structured methods. By this I mean that it is not enough just to read a long list of words with translation and maybe repeating each combination fifty times. You can use different methods, but writing the lists in groups  of 5-7 words and memorizing them as a group, followed by a control in both directions, does the trick for me, and then afterwards I can use the same methods that I would use on passive words to make the words stick. 
+
+Extensive reading and listening is of course necessary to get the nuances, construction possibilities and idiomatic uses, but all that is much easier when you already have a nodding acquaintance with each word. 
+
+The funny thing is that for once there is a thing in language learning which is measurable: I originally started my concentrated work on dictionaries and word lists because I wanted to assess my passive vocabulary in Romanian. But then I discovered that my vocabulary thundered upwards just by working with a dictionary. Later I experimented with techniques to learn new words, and this resulted in the wordlist technique which I'll describe below. 
+
+10000 active, 20000 passive words would be a good estimate of where you are leaving basic fluency and moving towards advanced fluency, but of course only in conjunction with a firm grasp on grammar and idiomatics, plus easy active use of the language in question (at least if you want to claim active fluency, not only passive fluency). And to get there dictionaries, word lists and flashcards are not enough, - you have to meet real living language (and produce it yourself). 
+
+Not to discourage anybody, but try to look up every unknown word from some ordinary text in a language you don't already know too well. How many did you find? My own experience with scientific magazines in several languages that is maybe half the words I didn't know aren't included in the my dictionaries either - which proves that even 20-30.000 words aren't enough. And here I'm not talking about specific scientific terms, because they often are international and therefore not among those I had to look up. So a daily word intake of at least 100 words is not only possible, but it really is what you MUST aim for if you want to learn a language within a reasonable time -  and this will of course be more difficult if it isn't closely related to something you already know. 
+
+There has of course been a lot of research on vocabulary sizes and word frequencies. One of the most important discoveries has been that a small number of words  cover most of any standard text, whereas the vast majority of words are so rare that the may occur only a few times in a corpus containing millions of words from thousands of text clips. The curves below are based on the [Kilgariff](http://www.kilgarriff.co.uk/bnc-readme.html) corpus where the standard unit is words, but 'clipped' words and numbers are included. 
+
+![Graphs showing the frequencies of words in English text.](../2-1-image-1.jpg)
+
+As you can see from the blue curve the most common word in English is "the" with almost 8%, but from there the coverage of each word falls very quickly. You will notice that "be", "is", "was" and "are" are counted separately. You could argue that they belong to the same verb, but in this case there are four separate roots represented, and it is fair enough to count them as separate items. However later in the list you will find "house" and "houses" as separate items even though they not only belong to the same paradigm, but also share one single root. Many researchers therefore prefer statistics based on so-called word families, where not only "house" and "houses", but also "housing" are counted as one unit. This will of course cut down on the total number of unique items (and the effect will be even more drastic in languages with more morphology than English), but the basic shape of the curve will not change.
+
+My own word counts are mostly based on dictionaries, so for me the natural unit is the 'headword'  as you'll find it in any standard dictionary. Here "house" and "houses" are counted as one unit and "housing" as another. And even "be", "is", "was" and "are" counted as one unit because they are seen as forms as just one headword, in this case a verb. It is clear that there will be a lot of fairly arbitrary decisions to be made if you want to count word families, but even the notion of 'headword' somewhat fuzzy unless you refer to one specific dictionary. For instance "being" is a verbal form, but it can also be a substantive, and then most dictionaries would treat it as an independent headword. You can choose to follow a certain dictionary blindly, but that just means that you leave it to the lexicographer team to make those arbitrary decisions.
+
+The red curve above is accumulative in the sense that it shows how much of the word stock in a corpus is covered by a certain number of words, positioned after their frequency. A number of researchers have asked themselves how much coverage you need to understand a text, and the numbers quoted are generally quite high. One of the front figures in this research has been Paul Nation. In a paper written [with](http://nflrc.hawaii.edu/rfl/PastIssues/rfl131hsuehchao.pdf) Marcella Hu Hsueh-Chao, " Unknown Vocabulary Density and Reading Comprehension" the readers are first reminded that 1% unknown words roughly will mean one unknown word per 10 lines in an average book. How many unknown words can you cope with and still claim to understand the text? The authors tested this by presenting a group a of native Anglophones (all fluent readers) with a story in which a certain percentage of the words were replaced by nonsense words, starting with the words with the lowest frequency. And their comprehension was tested by asking them 14 multiple choice questions. 12 correct answers would be accepted as full understanding. A few got all questions right, but have a look at this graphic:
+
+![Jittered plot of cued recall comprehension versus percentage of known vocabulary.](../2-1-image-2.jpg)
+
+1. *On average, learners' comprehension scores increase to a predictable degree as the coverage of known words increases.*
+2. *No learners reading the 80% coverage version of the text gained adequate comprehension. All learners in this group gained uniformly low comprehension scores.*
+3. *The range of scores of learners in the 95% and 90% coverage groups was wide.*
+4. *It was possible for some learners in the 90% group and a few more in the 95% group to gain adequate or close to adequate comprehension, but the majority of learners did not.*
+
+*(..) It seems that around 98% coverage may be needed for most learners to gain adequate comprehension. 98% coverage would have yielded an average score of 11.53 on the multiple choice test and a score of 70.82 on the cued written recall test.*
+
+There are definitely some people who are able to get the 'gist' of a text based on less than an 80% coverage. But this doesn't mean that they would be able to answer all 14 questions of Hu and Nation. They may be better to guess, better to organize scattered fragments to a general meaning and better to deal with uncertainties than your average Joe, but they still have to get their facts from somewhere. So in spite of the feat accomplished by 'master guessers' research reports like this one still support the thesis that you need an almost complete coverage to make a text comprehensible. And that means learning a lot of words.
+
+But which words? If you look at the curves above then it becomes clear that there basically are two kinds of words: those that are so common that you have to learn them - but also so common that you will meet them in almost any text. And the rest of the words are so rare that you might consider doing something special in order to remember them - it may take a long before you see them again. And then there are of course the very rare and maybe even outdated words which you don't really have to learn at all unless you aspire to do crosswords in other languages, but knowing at least those rare words which belong to semantic spheres within your field of interest will add to your feeling of knowing a foreign language really well. If you see a word that appeals to you then by all means learn it - even if it is rare and precious.
+
+
+
+Next section: [2.2 Wordcounts and active/passive vocabulary](../2-2-wordcounts-and-active-passive-vocabulary/)  
+Go to [content index](../)
